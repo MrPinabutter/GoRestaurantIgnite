@@ -8,7 +8,7 @@ const App = () => (
   <>
     <GlobalStyle />
     <Router>
-      <Routes />
+      <Routes /> 
     </Router>
   </>
 );
